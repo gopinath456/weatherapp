@@ -27,7 +27,7 @@ A simple weather application that allows users to search for weather information
    cd weather-app
    ```
 
-3. Open the `index.html` file in your browser to start using the app.
+3. Open the `index.md` file in your browser to start using the app.
 
 ## How It Works
 
