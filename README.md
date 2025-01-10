@@ -19,15 +19,15 @@ A simple weather application that allows users to search for weather information
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/gopinath456/weatherapp.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd weather-app
+   cd weatherapp
    ```
 
-3. Open the `index.md` file in your browser to start using the app.
+3. Open the `index.html` file in your browser to start using the app.
 
 ## How It Works
 
@@ -50,5 +50,5 @@ To use this app, you need an API key from OpenWeatherMap:
 
 1. Go to [OpenWeatherMap](https://openweathermap.org/).
 2. Sign up and get your free API key.
-3. Replace the API key in the JavaScript file (`app.js` or wherever the fetch request is made).
+3. Replace the API key in the JavaScript file (`index.html` or wherever the fetch request is made).
 
